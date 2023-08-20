@@ -1,3 +1,5 @@
+### Hello 👋
+About me:
 - Master's student in Information Science / 情报学硕士在读
 - Natural Language Processing and Graph Networks / 自然语言处理与图网络
 
